@@ -8,4 +8,5 @@ void main(void){
 	printf("i++   i=%d\n",i++);
 	printf("--i   i=%d\n",--i);
 	printf("i--   i=%d\n",i--);
+	printf("i     i=%d\n",i);
 }
