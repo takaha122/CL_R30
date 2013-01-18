@@ -6,4 +6,5 @@ void main(void){
 	printf("åvéZëOi=%d\n",i);
 	printf("Å{Å{i i=%d\n",++i);
 	printf("i++   i=%d\n",i++);
+	printf("--i   i=%d\n",--i);
 }
