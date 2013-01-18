@@ -7,4 +7,5 @@ void main(void){
 	printf("Å{Å{i i=%d\n",++i);
 	printf("i++   i=%d\n",i++);
 	printf("--i   i=%d\n",--i);
+	printf("i--   i=%d\n",i--);
 }
